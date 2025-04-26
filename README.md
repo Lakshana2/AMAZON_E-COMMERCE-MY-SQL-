@@ -16,8 +16,6 @@ Key Skills Demonstrated:
 
 --Data extraction with JOINs and aggregates
 
---Business metrics analysis (KPIs)
-
 --Data cleaning and filtering
 
 --Outcome: Insights for business decisions like top customers, sales growth, and market trends.
